@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:44:57.303309
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:03
 #+TITLE: 金剛般若波羅蜜經略疏
 #+PROPERTY: CBETA_ID T33n1704
 #+PROPERTY: ID KR6c0044
