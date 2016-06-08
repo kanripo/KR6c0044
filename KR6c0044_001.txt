@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:44:57.303309
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:03
 #+TITLE: 金剛般若波羅蜜經略疏
 #+PROPERTY: CBETA_ID T33n1704
 #+PROPERTY: ID KR6c0044
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 33, No. 1704
 #+PROPERTY: VOL 33
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0044_T_001-0239a> 
 #+PROPERTY: JUAN 1
 ¶
-No.1704[cf.No.236]¶
-
- 佛說金剛般若波羅蜜經略疏¶
+No. 1704 [cf. No. 236]¶
+佛說金剛般若波羅蜜經略疏¶
 卷上¶
 ¶
 唐至相寺沙門智儼述¶
@@ -568,7 +567,7 @@ No.1704[cf.No.236]¶
 如佛塔廟何況有人盡能受持讀誦此經須菩¶
 提當知是人成就最上第一希有之法若是經¶
 典所在之處則為有佛若尊重似佛　就第四¶
-顯德殊勝文中。大分有二。初有三句。以少彰¶
+顯德殊勝文中。大分有二。初有三句。以少影¶
 多。顯德殊勝。二須菩提當知已下。就多功德。¶
 以明殊勝。此中勝有二種勝。一所說處勝。隨¶
 何等處說此經。令生奇特尊重想故。二能說¶
